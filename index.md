@@ -12,29 +12,42 @@ Computer Science Graduate, Research Assistant @ TUGraz
 </div>
 
 
-## Research interests
+## About
+Alexander Ertl is a graduate student at Graz Technichal University with a focus on data science, machine learning and more specifically natural language processing. His work in the scope of his Master's thesis focuses on optimising the training procedure of Transformer models for natural language classification tasks such as framing detection.
+
+
+### Research interests
 
 * Natural Language Processing
-* Framing Detection
 * Data Analytics
 * Machine Learning Algorithms
 
 
 ## Experience
-`June 2023 - now`
-__Research Assistant__ @ TUGraz
+`Jun 2023 - now`
+__Research Assistant__ @ TUGraz <br/>
+Dataset aggregation and analysis
 
-`July 2021 - September 2021`
-__Research Assistant__ @ TUGraz
+`Jul 2021 - Sep 2021`
+__Research Assistant__ @ TUGraz <br/>
+CUDA implementation of sparse neural networks for PyTorch
 
-`October 2019 - June 2020`
-__Student Tutor__ @ TUGraz
+`Jul 2020 - Oct 2020`
+__Remunerated Bachelor's Thesis__ @ the Institute for Computer Graphics TUGraz <br/>
+Accelerating Sparse Neural Networks on GPUs <br/>
+3rd best paper award at the Central European Seminar on Computer Graphics
 
-`July 2019 - September 2019`
-__Software Developer__ @ Infineon Technologies
+`Oct 2019 - Jun 2020`
+__Student Tutor__ @ TUGraz <br/>
+Tutorials for the System Level Programming and Operating Systems lectures
 
-`July 2018 - September 2018`
-__Salesperson__ @ Temmel Fundraising
+`Jul 2019 - Sep 2019`
+__Software Developer__ @ Infineon Technologies <br/>
+GUI development in Java and C#GUI development in Java and C#
+
+`Jul 2018 - Sep 2018`
+__Salesperson__ @ Temmel Fundraising <br/>
+Fundraising for non-profit organizations
 
 
 ## Education
@@ -42,10 +55,10 @@ __Salesperson__ @ Temmel Fundraising
 `2021 - 2023`
 __Master's Degree in Data Science and Machine Learning__
 
-`March 2022 - July 2022`
+`Mar 2022 - Jul 2022`
 __Student Exchange__ @ Universidad de Palermo, Buenos Aires
 
-`October 2021 - February 2022`
+`Oct 2021 - Feb 2022`
 __Student Exchange__ @ Universidad Politécnica de Madrid
 
 `2017 - 2021`
@@ -66,7 +79,7 @@ __BG GIBS Graz International Bilingual School__
 * Java / C#
 
 
-### Natural Languages
+### Languages
 * German _native_
 * English _C1/C2_
 * Spanish _B2/C1_
