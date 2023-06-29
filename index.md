@@ -1,91 +1,86 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Alexander Ertl's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Alexander Ertl
+Computer Science Graduate, Research Assistant @ TUGraz
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="alexander.ertl@proton.me">alexander.ertl@proton.me</a> 
+| <a href="http://github.com/lambdasonly"><i class="fab fa-github"></i>lambdasonly</a> 
+| <a href="https://www.linkedin.com/in/alexander-ertl/"><i class="fab fa-linkedin"></i>alexander-ertl</a>
 </div>
 
 
-## Currently
+## Research interests
 
-Standing on the shoulders of giants
+* Natural Language Processing
+* Framing Detection
+* Data Analytics
+* Machine Learning Algorithms
 
-### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Experience
+`June 2023 - now`
+__Research Assistant__ @ TUGraz
 
+`July 2021 - September 2021`
+__Research Assistant__ @ TUGraz
 
-### Research interests
+`October 2019 - June 2020`
+__Student Tutor__ @ TUGraz
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`July 2019 - September 2019`
+__Software Developer__ @ Infineon Technologies
+
+`July 2018 - September 2018`
+__Salesperson__ @ Temmel Fundraising
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2021 - 2023`
+__Master's Degree in Data Science and Machine Learning__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`March 2022 - July 2022`
+__Student Exchange__ @ Universidad de Palermo, Buenos Aires
 
-- Sizar
+`October 2021 - February 2022`
+__Student Exchange__ @ Universidad Politécnica de Madrid
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2017 - 2021`
+__Bachelor's Degree in Information Technology__ @ TUGraz 
 
-- Fellow
+`2006 - 2016`
+__BG GIBS Graz International Bilingual School__
 
 
+## Skills
+* Python
+  - PyTorch
+  - Pandas & NumPy
+  - SQLAlchemy
+  - SKLearn
+* R
+* C / C++
+* Java / C#
 
-## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+### Natural Languages
+* German _native_
+* English _C1/C2_
+* Spanish _B2/C1_
+* Russian _A2_
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+Reiter-Haas, M., Ertl, A., Innerhofer, K., & Lex, E. (2023).  
+**mCPT at SemEval-2023 Task 3: Multilingual Label-Aware Contrastive Pre-Training of Transformers for Few-and Zero-shot Framing Detection.**  
+*arXiv preprint arXiv:2303.09901.*
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
+Last updated: June 2023 -->
 
