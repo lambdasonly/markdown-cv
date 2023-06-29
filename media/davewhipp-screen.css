@@ -82,6 +82,7 @@ p code {
 	position: absolute;
 	text-align: right;
 	right: -20%;
+	width: 20%;
 }
 
 
@@ -94,11 +95,11 @@ ul {
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
+li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
-}*/
+}
 
 li {
 	/*second line indent*/
@@ -117,7 +118,6 @@ li ul {
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
-	width: 70%;
 }
 
 h1 {
@@ -126,6 +126,7 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	left: 25%;
+	width: 50%
 }
 
 h1+p {
@@ -142,6 +143,7 @@ h2 {
 	top: 1.4em;
 	text-align: right;
 	width: 20%;
+	left: -30%;
 }
 
 h3 {
@@ -151,6 +153,7 @@ h3 {
 	top: 1.7em;
 	text-align: right;
 	width: 20%;
+	left: -30%;
 }
 
 a {
