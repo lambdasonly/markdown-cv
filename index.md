@@ -64,7 +64,7 @@ __Student Exchange__ @ Universidad Politécnica de Madrid
 `2017 - 2021`
 __Bachelor's Degree in Information Technology__ @ TUGraz 
 
-`2006 - 2016`
+`2008 - 2016`
 __BG GIBS Graz International Bilingual School__
 
 
