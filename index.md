@@ -6,9 +6,9 @@ title: Alexander Ertl's CV
 Computer Science Graduate, Research Assistant @ TUGraz
 
 <div id="webaddress">
-<a href="alexander.ertl@proton.me">alexander.ertl@proton.me</a> 
-| <a href="http://github.com/lambdasonly"><i class="fab fa-github"></i>lambdasonly</a> 
-| <a href="https://www.linkedin.com/in/alexander-ertl/"><i class="fab fa-linkedin"></i>alexander-ertl</a>
+<a href="mailto:alexander.ertl@proton.me"><i class="fas fa-envelope"></i> alexander.ertl@proton.me</a> 
+| <a href="http://github.com/lambdasonly"><i class="fab fa-github"></i> lambdasonly</a> 
+| <a href="https://www.linkedin.com/in/alexander-ertl/"><i class="fab fa-linkedin"></i> alexander-ertl</a>
 </div>
 
 
@@ -33,7 +33,7 @@ __Research Assistant__ @ TUGraz <br/>
 CUDA implementation of sparse neural networks for PyTorch
 
 `Jul 2020 - Oct 2020`
-__Remunerated Bachelor's Thesis__ @ the Institute for Computer Graphics TUGraz <br/>
+__Remunerated Bachelor's Thesis__ @ Institute of Computer Graphics TUGraz <br/>
 Accelerating Sparse Neural Networks on GPUs <br/>
 3rd best paper award at the Central European Seminar on Computer Graphics
 
@@ -53,7 +53,7 @@ Fundraising for non-profit organizations
 ## Education
 
 `2021 - 2023`
-__Master's Degree in Data Science and Machine Learning__
+__Master's Degree in Data Science and Machine Learning__ @ TUGraz
 
 `Mar 2022 - Jul 2022`
 __Student Exchange__ @ Universidad de Palermo, Buenos Aires
