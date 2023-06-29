@@ -52,12 +52,13 @@ table {
 
 
 body {
-	/* font: normal normal 400; */
-	font-size: 80%;
+	/* font: normal normal 400;
+	font-size: 80%; */
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
-	margin-top: 1em;
+	margin-top: 2em;
+	margin-bottom: 2em;
 	margin-left: 1em;
 }
 
