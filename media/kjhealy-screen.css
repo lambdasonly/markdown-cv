@@ -52,7 +52,7 @@ table {
 
 
 body {
-	font: normal normal 400;
+	/* font: normal normal 400; */
 	font-size: 80%;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
@@ -66,7 +66,7 @@ p {
 	left: 33%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 65%;
+	width: 55%;
 }
 
 code {
@@ -86,7 +86,7 @@ p code {
 ul { 
 	position: relative;
 	left: 33%;
-	width: 65%;
+	width: 55%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
@@ -164,6 +164,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 33%;
+	width: 55%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
