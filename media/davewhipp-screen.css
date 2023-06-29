@@ -67,7 +67,7 @@ p {
 	left: 25%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 55%;
+	width: 50%;
 }
 
 code {
@@ -81,7 +81,7 @@ code {
 p code {
 	position: absolute;
 	text-align: right;
-	right: -20%;
+	right: -25%;
 }
 
 
