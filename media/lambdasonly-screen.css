@@ -82,12 +82,12 @@ body {
 
 #subtitle_block {
   font-style: italic;
-  font-size: 110%;
+  font-size: 1.1em;
 }
 
 code {
 	font: normal normal;
-	font-size: 90%;
+	font-size: 0.9em;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	color: #aaa;
 }
@@ -112,6 +112,7 @@ li {
 	padding-left: 1.25em;
 	text-indent: -1.25em;
 	/*color: #777;*/
+  font-size: 100%;
 }
 
 li ul {
@@ -142,7 +143,7 @@ h1+p {
 }
 
 h2 {
-	font-size: 1.1em;
+	font-size: 1.2em;
 	color: #bc412b;
 	margin-top: 3em;
 	position: relative;
@@ -152,7 +153,7 @@ h2 {
 }
 
 h3 {
-	font-size: 1em;
+  font-size: 1em;
 	line-height: 2em;
 	position: relative;
 	top: 1.7em;
