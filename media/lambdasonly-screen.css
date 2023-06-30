@@ -96,8 +96,8 @@ ul {
 	position: relative;
 	left: 25%;
 	width: 75%;
-	margin-bottom: 1.5em;
-	margin-top: -0.5em;
+	margin-bottom: 1.4em;
+  font-size: 100%;
 }
 
 /*uncomment to get dashes in the list*/
@@ -112,7 +112,6 @@ li {
 	padding-left: 1.25em;
 	text-indent: -1.25em;
 	/*color: #777;*/
-  font-size: 100%;
 }
 
 li ul {
