@@ -63,8 +63,9 @@ body {
 }
 
 #experience_block {
-  width: 60%;
+  width: 70%;
   display: flex;
+  flex-direction: column-reverse;
   justify-content: space-between;
 }
 
@@ -73,11 +74,11 @@ body {
   left: 25%;
   margin-bottom: 0.6em;
   margin-right: 0;
-  width: 50%;
+  width: 65%;
 }
 
 .period {
-  text-align: right;
+  text-align: left;
 }
 
 #subtitle_block {
@@ -173,7 +174,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	width: 55%;
+	width: 51%;
 	color: #bc412b;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;

@@ -10,9 +10,9 @@ Prospective PhD student
 </div>
 
 <div id="webaddress">
-<a href="mailto:alexander.ertl@proton.me"><i class="fas fa-envelope"></i> alexander.ertl@proton.me</a> 
-| <a href="http://github.com/lambdasonly"><i class="fab fa-github"></i> lambdasonly</a> 
-| <a href="https://www.linkedin.com/in/alexander-ertl/"><i class="fab fa-linkedin"></i> alexander-ertl</a>
+<a href="mailto:alexander.ertl@proton.me"><i class="fas fa-envelope"></i> alexander.ertl@proton.me</a> | 
+<a href="http://github.com/lambdasonly"><i class="fab fa-github"></i> lambdasonly</a> | 
+<a href="https://www.linkedin.com/in/alexander-ertl/"><i class="fab fa-linkedin"></i> alexander-ertl</a>
 </div>
 
 
@@ -94,7 +94,7 @@ Fundraising for non-profit organizations
 ## Education
 <div id=experience_block class=paragraph_div>
 <div>
-__Master's Degree in Data Science and Machine Learning__ @ TUGraz
+__Master's Degree with distinction in Data Science and Machine Learning__ @ TUGraz <br/>
 </div>
 <div class=period>
 `2021 - 2023`
@@ -154,7 +154,7 @@ __BG GIBS Graz International Bilingual School__
 
 ### Languages
 * German _native_
-* English _C1/C2_
+* English _C2_
 * Spanish _B2/C1_
 * Russian _A2_
 

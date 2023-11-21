@@ -197,8 +197,12 @@ strong {
 }
 
 
+@media only screen and (max-width: 700px) {
+  #experience_block {
+    flex-direction: column-reverse;
+  }
 
-/*
-@media only screen and (max-width: 480px) {
-	make one column somehow...
-}*/
+  .period {
+    text-align: left;
+  }
+}
