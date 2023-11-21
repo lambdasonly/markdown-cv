@@ -6,7 +6,7 @@ title: Alexander Ertl's CV
 
 # Alexander Ertl
 <div id=subtitle_block class=paragraph_div>
-Computer Science Graduate, Research Assistant @ TUGraz
+Prospective PhD student
 </div>
 
 <div id="webaddress">
@@ -18,15 +18,14 @@ Computer Science Graduate, Research Assistant @ TUGraz
 
 ## About
 <div class=paragraph_div>
-Alexander Ertl is a graduate student at Graz Technichal University with a focus on data science, machine learning and more specifically natural language processing. His work in the scope of his Master's thesis focuses on optimising the training procedure of Transformer models for natural language classification tasks such as framing detection.
+Alexander Ertl is a prospective PhD student with a focus on artificial intelligence, natural language processing, and data science. His work in the scope of his Master's thesis focuses on optimising the training procedure of transformer models for natural language classification tasks such as framing detection and analysis of the resulting frames.
 </div>
 
 
 ### Research interests
-
 * Natural Language Processing
+* Artificial Intelligence
 * Data Analytics
-* Machine Learning Algorithms
 
 
 ## Experience
@@ -36,7 +35,7 @@ __Research Assistant__ @ TUGraz <br/>
 Dataset aggregation and analysis
 </div>
 <div class=period>
-`Jun 2023 - now`
+`Jun 2023 - Oct 2023`
 </div>
 </div>
 
@@ -54,7 +53,7 @@ CUDA implementation of sparse neural networks for PyTorch
 <div>
 __Remunerated Bachelor's Thesis__ @ Institute of Computer Graphics TUGraz <br/>
 Accelerating Sparse Neural Networks on GPUs <br/>
-3rd best paper award at the Central European Seminar on Computer Graphics
+_3rd best paper award_ at the Central European Seminar on Computer Graphics student seminar
 </div>
 <div class=period>
 `Jul 2020 - Oct 2020`
@@ -93,7 +92,6 @@ Fundraising for non-profit organizations
 
 
 ## Education
-
 <div id=experience_block class=paragraph_div>
 <div>
 __Master's Degree in Data Science and Machine Learning__ @ TUGraz
@@ -146,12 +144,11 @@ __BG GIBS Graz International Bilingual School__
 
 ## Skills
 * Python
-  - PyTorch
-  - Pandas & NumPy
+  - PyTorch development
+  - Pandas & NumPy & SKLearn
   - SQLAlchemy
-  - SKLearn
 * R
-* C / C++
+* C / C++ / CUDA
 * Java / C#
 
 
@@ -163,11 +160,21 @@ __BG GIBS Graz International Bilingual School__
 
 
 ## Publications
-
 <div class=paragraph_div>
-Reiter-Haas, M., Ertl, A., Innerhofer, K., & Lex, E. (2023).  
-**mCPT at SemEval-2023 Task 3: Multilingual Label-Aware Contrastive Pre-Training of Transformers for Few-and Zero-shot Framing Detection.**  
-*arXiv preprint arXiv:2303.09901.*
+Alexander Ertl, Markus Reiter-Haas, Kevin Innerebner, and Elisabeth Lex. 2023.
+**mCPT at SemEval-2023 Task 3: Multilingual Label-Aware Contrastive Pre-Training of Transformers for Few- and Zero-shot Framing Detection.**
+*In Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023), pages 941–949, Toronto, Canada. Association for Computational Linguistics.*
+</div>
+
+
+## Miscellaneous
+<div id=experience_block class=paragraph_div>
+<div>
+Team leader at the Huawei Seeds for the Future student workshop. Participation in the global Tech4Good competition.
+</div>
+<div class=period>
+`Sep 2023`
+</div>
 </div>
 
 
