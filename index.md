@@ -18,21 +18,21 @@ Prospective PhD student
 
 ## About
 <div class=paragraph_div>
-Alexander Ertl is a prospective PhD student with a focus on artificial intelligence, natural language processing, and data science. His work in the scope of his Master's thesis focuses on optimising the training procedure of transformer models for natural language classification tasks such as framing detection and analysis of the resulting frames.
+Alexander Ertl is a prospective PhD student with a focus on artificial intelligence, natural language processing, and data science. His work in the scope of his Master's thesis focuses on optimising the training procedure of transformer models for natural language classification tasks such as framing detection.
 </div>
 
 
 ### Research interests
 * Natural Language Processing
 * Artificial Intelligence
-* Data Analytics
+* Reinforcement Learning
 
 
 ## Experience
 <div id=experience_block class=paragraph_div>
 <div>
 __Research Assistant__ @ TUGraz <br/>
-Dataset aggregation and analysis
+Dataset aggregation and analysis, focus on natural language understanding
 </div>
 <div class=period>
 `Jun 2023 - Oct 2023`
@@ -90,11 +90,32 @@ Fundraising for non-profit organizations
 </div>
 </div>
 
+<div id=experience_block class=paragraph_div>
+<div>
+__Austrian National Service__ @ Green Cross <br/>
+Emergency assistance and ambulance service
+</div>
+<div class=period>
+`Oct 2016 - Jun 2016`
+</div>
+</div>
+
 
 ## Education
 <div id=experience_block class=paragraph_div>
 <div>
+__Mathematics Bachelor__ @ University of Graz <br/>
+Mathematics and philosophy lectures
+</div>
+<div class=period>
+`2023 - now`
+</div>
+</div>
+
+<div id=experience_block class=paragraph_div>
+<div>
 __Master's Degree with distinction in Data Science and Machine Learning__ @ TUGraz <br/>
+[Thesis](https://github.com/lambdasonly/mCPT) on the _Contrastive Pre-Training of Transformer Models for Computational Framing Analysis_
 </div>
 <div class=period>
 `2021 - 2023`

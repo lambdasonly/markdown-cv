@@ -197,7 +197,7 @@ strong {
 }
 
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 800px) {
   #experience_block {
     flex-direction: column-reverse;
   }
