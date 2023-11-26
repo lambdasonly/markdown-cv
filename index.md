@@ -18,13 +18,13 @@ Prospective PhD student
 
 ## About
 <div class=paragraph_div>
-Alexander Ertl is a prospective PhD student with a focus on artificial intelligence, natural language processing, and data science. His work in the scope of his Master's thesis focuses on optimising the training procedure of transformer models for natural language classification tasks such as framing detection.
+Alexander Ertl is a prospective PhD student with a focus on artificial intelligence. Focal points of his prior research were contrastive loss functions to efficiently train transformer architectures in data-sparse settings for natural language classification tasks, such as framing detection, and sparse neural networks. Personal interests include cognitive science, neuroscience, and understanding learning and perception.
 </div>
 
 
 ### Research interests
-* Natural Language Processing
 * Artificial Intelligence
+* Natural Language Processing
 * Reinforcement Learning
 
 
@@ -51,17 +51,6 @@ CUDA implementation of sparse neural networks for PyTorch
 
 <div id=experience_block class=paragraph_div>
 <div>
-__Remunerated Bachelor's Thesis__ @ Institute of Computer Graphics TUGraz <br/>
-Accelerating Sparse Neural Networks on GPUs <br/>
-_3rd best paper award_ at the Central European Seminar on Computer Graphics student seminar
-</div>
-<div class=period>
-`Jul 2020 - Oct 2020`
-</div>
-</div>
-
-<div id=experience_block class=paragraph_div>
-<div>
 __Student Tutor__ @ TUGraz <br/>
 Tutorials for the System Level Programming and Operating Systems lectures
 </div>
@@ -73,7 +62,7 @@ Tutorials for the System Level Programming and Operating Systems lectures
 <div id=experience_block class=paragraph_div>
 <div>
 __Software Developer__ @ Infineon Technologies <br/>
-GUI development in Java and C#GUI development in Java and C#
+GUI development in Java and C#
 </div>
 <div class=period>
 `Jul 2019 - Sep 2019`
@@ -125,7 +114,8 @@ __Master's Degree with distinction in Data Science and Machine Learning__ @ TUGr
 
 <div id=experience_block class=paragraph_div>
 <div>
-__Student Exchange__ @ Universidad de Palermo, Buenos Aires
+__Student Exchange__ @ Universidad de Palermo, Buenos Aires <br/>
+Neuroscience • Learning Psychology • Philosophy
 </div>
 <div class=period>
 `Mar 2022 - Jul 2022`
@@ -139,6 +129,18 @@ __Student Exchange__ @ Universidad Politécnica de Madrid
 </div>
 <div class=period>
 `Oct 2021 - Feb 2022`
+</div>
+</div>
+
+
+<div id=experience_block class=paragraph_div>
+<div>
+__Remunerated Bachelor's Thesis__ @ Institute of Computer Graphics TUGraz <br/>
+Accelerating Sparse Neural Networks on GPUs <br/>
+_3rd best paper award_ at the Central European Seminar on Computer Graphics student seminar
+</div>
+<div class=period>
+`Jul 2020 - Oct 2020`
 </div>
 </div>
 
