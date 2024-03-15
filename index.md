@@ -18,14 +18,14 @@ Prospective PhD student
 
 ## About
 <div class=paragraph_div>
-Alexander Ertl is a prospective PhD student with a focus on artificial intelligence. Focal points of his prior research were contrastive loss functions to efficiently train transformer architectures in data-sparse settings for natural language classification tasks, such as framing detection, and sparse neural networks. Personal interests include cognitive science, neuroscience, and understanding learning and perception.
+Alexander Ertl is a prospective PhD student with a focus on embodied artificial intelligence. Focal points of his prior research were contrastive loss functions to efficiently train transformer architectures in data-sparse settings for natural language classification tasks, such as framing detection, and sparse neural networks. Personal interests include cognitive science, learning and perception, bouldering, running, coffee, and playing the piano.
 </div>
 
 
 ### Research interests
 * Artificial Intelligence
-* Natural Language Processing
 * Reinforcement Learning
+* Natural Language Processing
 
 
 ## Experience
@@ -97,7 +97,7 @@ __Mathematics Bachelor__ @ University of Graz <br/>
 Mathematics and philosophy lectures
 </div>
 <div class=period>
-`2023 - now`
+`2023 - 2024`
 </div>
 </div>
 
@@ -165,17 +165,7 @@ __BG GIBS Graz International Bilingual School__
 </div>
 
 
-## Skills
-* Python
-  - PyTorch development
-  - Pandas & NumPy & SKLearn
-  - SQLAlchemy
-* R
-* C / C++ / CUDA
-* Java / C#
-
-
-### Languages
+## Languages
 * German _native_
 * English _C2_
 * Spanish _B2/C1_
